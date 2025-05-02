@@ -1,10 +1,10 @@
-# AnIndex of Refraction Adaptive Neural Refractive Radiance Field for Transparent Scenes
+# An Index of Refraction Adaptive Neural Refractive Radiance Field for Transparent Scenes
 ------
 
 An improvement of NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields
 ------
 
-We borrowed the code from the NeRRF author and made modifications based on it
+We borrowed the code from the NeRRF author and made modifications based on it.
 
 ### Setup
 
