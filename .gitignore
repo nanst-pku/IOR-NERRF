@@ -1,0 +1,16 @@
+logs/*
+python-mesh-raycast/*
+data/*
+scripts/*
+tet_visual/*
+visuals/*
+*.txt
+*.log
+*.bmp
+*.obj
+*.png
+*.jpg
+checkpoints/*
+eval_result/
+*.pyc
+*.lnk
